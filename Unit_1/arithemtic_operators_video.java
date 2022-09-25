@@ -38,12 +38,7 @@ public class Test{
         System.out.println((1*5+3-1) % 7);
         int ab = 1;
         System.out.println(++ab + ab++);
-        
-        //System.out.println(1 / 0);
-        //System.out.println(1 / 2);
+        System.out.println(ab);
+        System.out.println(1 / 2);
     }
 }
-
-
-
-                  
