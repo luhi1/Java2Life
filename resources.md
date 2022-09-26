@@ -6,7 +6,6 @@ File contains links to help videos and documentation that will help you on your 
   <li><a href="https://www.youtube.com/watch?v=l9AzO1FMgM8">Java in 100 seconds</a></li>
   <li><a href="https://www.youtube.com/watch?v=m4-HM_sCvtQ">Java for the haters</a></li>
   <li><a href="https://www.youtube.com/watch?v=pTB0EiLXUC8">Object-oriented programming in 7 minutes</a></li>
-  <li><a href="#"></a></li>
 </ul>
 
 <h2>Documentation</h2>
