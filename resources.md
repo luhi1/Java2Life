@@ -7,6 +7,7 @@ File contains links to help videos and documentation that will help you on your 
   <li><a href="https://www.youtube.com/watch?v=l9AzO1FMgM8">Java in 100 Seconds</a></li>
   <li><a href="https://www.youtube.com/watch?v=m4-HM_sCvtQ">Java for the Haters</a></li>
   <li><a href="https://www.youtube.com/watch?v=pTB0EiLXUC8">Object-Oriented Programming in 7 minutes</a></li>
+  <li><a href="https://www.youtube.com/watch?v=m_MQYyJpIjg">Fundamental Concepts of Object Oriented Programming</a></li>
 </ul>
 
 <h2>Documentation</h2>
