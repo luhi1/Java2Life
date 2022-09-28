@@ -12,13 +12,15 @@ File contains links to help videos and documentation that will help you on your 
 
 <h2>Documentation</h2>
 <ul>
-  <li><a href="https://docs.oracle.com/javase/tutorial/">The Offical Java Documentation</a></li>
+  <li><a href="https://docs.oracle.com/javase/tutorial/">The Official Java Documentation</a></li>
+  <li><a href="https://docs.oracle.com/javase/8/docs/api/">The Official Java API</a></li>
   <li><a href="https://www.w3schools.com/java/">W3Schools Java Tutorial</a></li>
   <li><a href="https://code.visualstudio.com/docs/java/java-tutorial">Java Setup in VSCode</a></li>
 </ul>
 
 <h2>Practice & Exercises</h2>
 <ul>
+  <li><a href="https://www.w3resource.com/java-exercises/basic/index.php">Java Basic Exercises</a></li>
   <li><a href="https://www.w3schools.com/java/java_exercises.asp">W3Schools Java Exercise</a></ul>
 </ul>
 
